@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Min Thu Naing 👋
+# Min Thu Naing
 
 ### Aspiring Full-Stack Developer
 
